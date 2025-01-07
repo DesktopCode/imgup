@@ -7,5 +7,5 @@ Profile: Shared Images, comments, change your profile pic, and Messenger.<br>
 Admin: Control everything on the website via the admin panel.<br><br> 
 
 Website: https://www.desktopcode.com<br>
-Info Page: https://www.desktopcode.com/esportsgl.html<br><br>
+Info Page: https://www.desktopcode.com/imgup.html<br><br>
 <a href="https://desktopcode.com/download/do.php?idcore-id=263">Download HERE</a>
